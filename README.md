@@ -26,9 +26,7 @@
 - **Dashboard** → menampilkan ringkasan anggota & grafik kehadiran interaktif  
 - **Manajemen Anggota** → tambah, edit, hapus, cari, filter anggota  
 - **Manajemen Kehadiran** → pencatatan & rekap otomatis  
-- **Cetak Laporan** → hasil rekap kehadiran bisa diunduh dalam format PDF  
-
-*(Tambahkan screenshot aplikasi kamu di sini, misalnya `assets/dashboard.png`)*  
+- **Cetak Laporan** → hasil rekap kehadiran bisa diunduh dalam format PDF   
 
 ---
 
